@@ -17,6 +17,7 @@ void addFraction(int num1, int den1, int num2,int den2)
           
           g=gcd(l,num1);
           
+          
           cout<<num1/g<<"/"<<l/g<<endl;
           
 }
